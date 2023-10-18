@@ -79,10 +79,14 @@ The test suite generates test reports in the Mochawesome format. You can view th
 Google Drive Link: https://docs.google.com/spreadsheets/d/1WV09FznyY8iTFiFluwK8N2rTzGlXYi1my230b15V4H4/edit?usp=sharing
 
 ## Mochawesome Report:
-<img width="1440" alt="Screenshot 2023-10-19 at 12 24 58 AM" src="https://github.com/Ksagor29/Api-automation-using-mocha-framework-1/assets/83920086/20d492ad-6564-4d02-8188-33c04a73f067">
+
+<img width="1440" alt="Screenshot 2023-10-19 at 1 23 00 AM" src="https://github.com/Ksagor29/Api-automation-using-mocha-framework-1/assets/83920086/3884f845-7427-49ab-a0f2-90eba593c762">
 
 ## Video Output:
 
 
-https://github.com/Ksagor29/Api-automation-using-mocha-framework-1/assets/83920086/6faeee6d-c1a8-4952-8658-d461e6a03695
+
+https://github.com/Ksagor29/Api-automation-using-mocha-framework-1/assets/83920086/a04cca67-e190-4ab9-a5cf-b35a71fd6aec
+
+
 

@@ -5,7 +5,7 @@ const envData = require('../env.json');
 
 
 
-describe('API CRUD Operations Automation Test', () => {
+describe('Comprehensive API CRUD Operations Test Suite', () => {
   let postId;
 
   it('get all posts', async () => {

@@ -2,19 +2,16 @@
 
 This test suite is a comprehensive solution for automating the testing of **CRUD** (Create, Read, Update, Delete) operations of an API. It utilizes the robust Mocha framework, the promise-based HTTP client Axios, and the Chai assertion library. The test scripts are written in JavaScript, providing a familiar and flexible environment for developers.
 
-```
+
 **Axios** is a renowned HTTP client that simplifies the process of sending requests and receiving responses from the server. Its support for promises makes it an excellent choice for integrating and testing APIs, as it allows for asynchronous operations and better handling of responses.
-```
-```
+
 
 **Mocha** is a versatile JavaScript test framework that can run on both Node.js and in the browser. It simplifies asynchronous testing by running tests serially, which allows for more flexible and accurate reporting. It also maps uncaught exceptions to the correct test cases, making it easier to identify and fix issues.
-```
-```
+
 **Chai** is a popular assertion library that pairs exceptionally well with Mocha. It allows developers to use natural language constructs when writing tests, making the tests easier to write and read.
-```
-```
+
 **CRUD operations** are the backbone of most data-driven applications. They are essential for manipulating resources in an API, and thus, thorough testing of these operations is crucial for the reliability of the application.
-```
+
 
 ## Prerequisites
 

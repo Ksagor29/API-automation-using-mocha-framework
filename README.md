@@ -80,13 +80,16 @@ Google Drive Link: https://docs.google.com/spreadsheets/d/1WV09FznyY8iTFiFluwK8N
 
 ## Mochawesome Report:
 
-<img width="1440" alt="Screenshot 2023-10-19 at 1 23 00 AM" src="https://github.com/Ksagor29/Api-automation-using-mocha-framework-1/assets/83920086/3884f845-7427-49ab-a0f2-90eba593c762">
+<img width="1440" alt="Screenshot 2023-10-19 at 1 23 00 AM" src="https://github.com/Ksagor29/API-automation-using-mocha-framework/assets/83920086/93c2dcad-d315-4abe-b671-d72c90799891">
+
 
 ## Video Output:
 
 
 
-https://github.com/Ksagor29/Api-automation-using-mocha-framework-1/assets/83920086/a04cca67-e190-4ab9-a5cf-b35a71fd6aec
+
+https://github.com/Ksagor29/API-automation-using-mocha-framework/assets/83920086/0702683e-a845-4687-b5ab-de50ed5c00d6
+
 
 
 

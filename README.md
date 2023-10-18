@@ -1,4 +1,3 @@
-# API-automation-using-mocha-framework
 # Comprehensive API CRUD Operations Test Suite using Mocha Framework
 
 This test suite is a comprehensive solution for automating the testing of CRUD (Create, Read, Update, Delete) operations of an API. It utilizes the robust Mocha framework, the promise-based HTTP client Axios, and the Chai assertion library. The test scripts are written in JavaScript, providing a familiar and flexible environment for developers.
@@ -22,6 +21,17 @@ Before you can run the test suite, ensure that Node.js and npm are installed on 
 - **Visual Studio Code**: The recommended code editor for this project.
 - **Mocha Framework**: The testing framework used to structure and run the tests.
 - **Mochawesome**: A Mocha reporter that generates a comprehensive HTML/CSS report, providing a visual representation of the test suites.
+
+## API Routes
+
+The test suite covers the following API routes:
+
+- **GET /posts**: Retrieves all posts.
+- **GET /posts/1**: Retrieves a specific post.
+- **GET /posts/1/comments**: Retrieves comments for a specific post.
+- **POST /posts**: Creates a new post.
+- **PUT /posts/1**: Updates a specific post.
+- **DELETE /posts/1**: Deletes a specific post.
 
 
 ## Setup

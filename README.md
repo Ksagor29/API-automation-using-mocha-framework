@@ -74,6 +74,10 @@ The test suite includes the following test cases:
 
 The test suite generates test reports in the Mochawesome format. You can view the test reports in the console output or in the generated HTML report. Mochawesome provides a full-fledged HTML/CSS report that helps visualize your test suites.
 
+
+## Test case Report based on Scenerio:
+Google Drive Link: https://docs.google.com/spreadsheets/d/1WV09FznyY8iTFiFluwK8N2rTzGlXYi1my230b15V4H4/edit?usp=sharing
+
 ## Mochawesome Report:
 <img width="1440" alt="Screenshot 2023-10-19 at 12 24 58 AM" src="https://github.com/Ksagor29/Api-automation-using-mocha-framework-1/assets/83920086/20d492ad-6564-4d02-8188-33c04a73f067">
 
